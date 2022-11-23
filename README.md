@@ -33,3 +33,13 @@
 
 ![Screenshot_20221123_162923](https://user-images.githubusercontent.com/115984987/203530660-4d650d10-296e-4199-b8c2-7ea579df03ad.png)
 
+
+## Prerequisites
+
+### To run the Application, you'll have to have these installed
+
+### JDK
+### Download and Install [JDK](https://www.oracle.com/in/java/technologies/downloads/#jdk19-windows)
+
+### Apache Netbeans
+### Download and Install [Apache Netbeans](https://netbeans.apache.org/)
